@@ -1,0 +1,1 @@
+export type Value = 'X' | 'O'; // value of any given square 
